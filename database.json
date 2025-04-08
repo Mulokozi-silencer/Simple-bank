@@ -1,0 +1,15 @@
+{
+    "mulo": {
+        "password": "hashed_value_here",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "Mulo": {
+        "password": "d34f3eae0d01fc33e6aa02c387bf5d820ca9909190b0f56f4ca9f7d2e707a47e",
+        "balance": 900.0,
+        "transactions": [
+            "Deposited $1000.00",
+            "Withdrew $100.00"
+        ]
+    }
+}
